@@ -30,6 +30,12 @@ Discord: @erikerik116
 
 ## 🧑‍💻 **Recording Video**
 
+This is the demo video of the process of my raydium sniper.
+
+
+https://github.com/user-attachments/assets/e3b55955-b1fd-4402-bf6b-2a6c8f504b09
+
+
 ## 🚀 **Getting Started**
 
 Follow these steps to get your **PumpFun Sniper Bot v5.2** up and running!
@@ -39,7 +45,7 @@ Follow these steps to get your **PumpFun Sniper Bot v5.2** up and running!
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/erikerik116/Raydium-sniper-grpc-V5.0.git
+    git clone https://github.com/erikerik116/Raydium-sniper-grpc-V5.0
     ```
 
 2. **Install Dependencies**:
@@ -72,5 +78,8 @@ Follow these steps to get your **PumpFun Sniper Bot v5.2** up and running!
 
 ---
 
+
+This is public code for ad.
+If you want real bot, then you can contact me and get whole part of my sniper.
 
 
